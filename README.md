@@ -31,30 +31,12 @@ Additional assumptions and parameter choices are introduced and justified where 
 
 ## 3. Repository Structure
 
-The repository contains the MATLAB code and simulation figures used throughout the project, organised by problem and file type.
+The repository is organised into two main folders:
 
-```text
-3D-printer-project/
-│
-├── matlab-code/
-│   ├── problem-1/
-│   │   ├── Q4.m
-│   │   ├── Q5.m
-│   │   └── Q6.m
-│   ├── problem-2/
-│   └── problem-3/
-│
-├── matlab-figures/
-│   ├── problem-1/
-│   ├── problem-2/
-│   └── problem-3/
-│
-└── README.md
-```
+- **`matlab-code/`** contains the MATLAB scripts used for each problem, including the models and simulations.
+- **`matlab-figures/`** contains the corresponding figures and simulation results.
 
-The `matlab-code` folder contains the implementations of the mathematical models and simulations, while `matlab-figures` contains the corresponding graphical results.
-
-All project files are organised within the **`main` branch**, with separate folders for each problem rather than separate development branches.
+Within each folder, files are organised by problem (`problem-1`, `problem-2`, and `problem-3`), with all files stored on the `main` branch.
 
 ## 4. Software
 
