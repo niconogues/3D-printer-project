@@ -44,7 +44,7 @@ The numerical simulations are developed in **MATLAB**, using numerical methods s
 
 ## 5. Repository History and Access
 
-This repository was created at the beginning of the project and is maintained as a private GitHub repository.
+This repository was created at the beginning of the project.
 
 As this was our first experience with GitHub, we were initially unfamiliar with its version-control features and developed most of our work locally. We therefore primarily used the repository as an organised location for storing and submitting our MATLAB code and results, meaning that its commit history does not reflect the complete development process.
 
