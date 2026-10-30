@@ -66,4 +66,4 @@ This repository was created at the beginning of the project and is maintained as
 
 As this was our first experience with GitHub, we were initially unfamiliar with its version-control features and developed most of our work locally. We therefore primarily used the repository as an organised location for storing and submitting our MATLAB code and results, meaning that its commit history does not reflect the complete development process.
 
-The repository remains private, and access can be provided to the course supervisors through GitHub collaborator invitations, with the relevant access information included in the final Brightspace submission.
+The repository is publicly accessible through the GitHub link provided in the report's Appendix and in the final Brightspace submission.
