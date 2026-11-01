@@ -1,6 +1,6 @@
-# 3D Printer Modelling — Mini Project 2026
+# 3D Printer Modelling Mini Project 2026
 
-**TU Delft — MSc Systems & Control**  
+**TU Delft MSc Systems & Control**  
 **Course:** Modelling of Dynamical Systems
 
 ## 1. Project Overview
@@ -17,7 +17,7 @@ The project is divided into three main parts:
 
 ## 2. Modelling Assumptions
 
-To obtain a manageable mathematical model, the following assumptions are initially adopted:
+To obtain a manageable mathematical model, the following assumptions were adopted:
 
 1. **Planar motion:** The printer head moves only in the x-y plane, neglecting motion along the z-axis.
 2. **Ideal belt transmission:** The belts are assumed massless, inextensible, and free of slipping, while the mechanical components are considered rigid.
@@ -36,7 +36,7 @@ The repository is organised into two main folders:
 - **`matlab-code/`** contains the MATLAB scripts used for each problem, including the models and simulations.
 - **`matlab-figures/`** contains the corresponding figures and simulation results.
 
-Within each folder, files are organised by problem (`problem-1`, `problem-2`, and `problem-3`), with all files stored on the `main` branch.
+Within each folder, files are organised by problem.
 
 ## 4. Software
 
