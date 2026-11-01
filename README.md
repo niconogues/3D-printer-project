@@ -26,7 +26,8 @@ To obtain a manageable mathematical model, the following assumptions were adopte
 5. **Thermal behaviour:** The nozzle is treated as a lumped thermal system with a spatially uniform temperature, while heat losses to the environment and filament are represented by an equivalent thermal resistance.
 6. **Filament cooling:** The deposited filament is modelled as a one-dimensional distributed-parameter system with a uniform square cross-section, considering heat exchange with the heated bed and surrounding air as the computational domain grows during printing.
 7. **Discrete operations:** Control events and transitions between operating modes are assumed instantaneous, while the physical evolution between events is governed by the corresponding continuous dynamics.
-
+8. **Initial position:** The print head initially starts at the origin (x₀, y₀) = (0, 0), with both motor angles equal to zero.
+9. 
 Additional assumptions and parameter choices are introduced and justified where required in the individual models.
 
 ## 3. Repository Structure
